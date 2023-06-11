@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/hamzaportfolio/static/css/main.a299cfea.css",
+    "main.js": "/hamzaportfolio/static/js/main.33ae10a4.js",
+    "static/media/Property.png": "/hamzaportfolio/static/media/Property.77289852b9acc325f193.png",
+    "static/media/CVS.png": "/hamzaportfolio/static/media/CVS.bb991d5054a3ac95d8fb.png",
+    "static/media/Profile.png": "/hamzaportfolio/static/media/Profile.da9ffe91b9e02178a78d.png",
+    "static/media/FoodApp.jpg": "/hamzaportfolio/static/media/FoodApp.33e8d06a40b475e917f8.jpg",
+    "static/media/Numerical.png": "/hamzaportfolio/static/media/Numerical.7f8483838a384c34d5c6.png",
+    "static/media/about.png": "/hamzaportfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/Airbnb.jpg": "/hamzaportfolio/static/media/Airbnb.ff3a5a8555f64a776f58.jpg",
+    "static/media/Blog.jpg": "/hamzaportfolio/static/media/Blog.2b8ea9ebdaea92015922.jpg",
+    "static/media/Covid.jpeg": "/hamzaportfolio/static/media/Covid.007a3a59ceda1effaa45.jpeg",
+    "static/media/home-bg.jpg": "/hamzaportfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/avatar.svg": "/hamzaportfolio/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/hamzaportfolio/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/hamzaportfolio/index.html",
+    "main.a299cfea.css.map": "/hamzaportfolio/static/css/main.a299cfea.css.map",
+    "main.33ae10a4.js.map": "/hamzaportfolio/static/js/main.33ae10a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a299cfea.css",
+    "static/js/main.33ae10a4.js"
+  ]
+}
