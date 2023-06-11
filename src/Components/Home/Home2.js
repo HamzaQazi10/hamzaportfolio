@@ -38,7 +38,15 @@ function Home2() {
               <i>
                 <b className="purple"> React </b>
               </i>
-              Currently, I am working in Visionx as frontend developer.
+              Currently, I am working in <b className="purple">
+                
+                Visionx 
+                </b>
+                as 
+                <b className="purple">
+
+                frontend developer.
+                </b>
             </p>
           </Col>
           <Col md={4} className="myAvtar">
